@@ -1,25 +1,15 @@
 ---
 layout: page
-title: Netflix and Hallyu
-description: June 2020 - Sep 2020 
-             Research Associate
+title: Effect of Netflix Content on Promoting Korean Culture and Hallyu
+description: PI: Seok-Kyeong Hong
 img: assets/img/12.jpg
 importance: 1
 category: research
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+We conducted in-depth interviews with Netflix users of different origins, ages, genders, and experiences with Korean culture, in order to find out the effect of Netflix on the reception of Korean culture. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+I participated in this project as a Research Associate.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
