@@ -22,3 +22,5 @@ Currently, I am working as an Administrative Assistant at the [Department of Com
 I earned my MA in Communication from Seoul National University, and my BS in Media, Culture, and Communication (_magna cum laude_) from New York University.
 
 In my spare time, I love to travel and geek out over Disney and K-pop. I also enjoy baking and running. Some of my current obsessions include [TikTok](http://vt.tiktok.com/ZSehLkJVY), _Dune_, and [Seong-Jin Cho](https://youtu.be/aNMlq-hOIoc). I was born in Seoul, raised in New Jersey, with a few dashes of New York and Orlando mixed in.
+
+You can download my CV [here].
