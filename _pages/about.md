@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Comm @ SNU
+description: Comm @ SNU | ohjiwon[at]snu[dot]ac[dot]kr
 profile:
   align: right
   image: prof_pic.jpg
