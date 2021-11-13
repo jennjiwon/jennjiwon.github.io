@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Netflix and Hallyu
+description: June 2020 - Sep 2020 
+             Research Associate
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: research
 ---
 
 Every project has a beautiful feature showcase page.
