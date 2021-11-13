@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /publications/
-title: in progress
-description: *Oh, Ji Won* & Hong, Seok Kyeong. Confessions of a Koreaboo
+title: publications
+description: 
 years:
-nav: true
+nav: false
 ---
 
 <div class="publications">
@@ -16,8 +16,3 @@ nav: true
 
 </div>
 
----
-
-*Oh, Ji Won* & Hong, Seok Kyeong. Confessions of a Koreaboo
-
----
