@@ -23,4 +23,4 @@ I earned my MA in Communication from Seoul National University, and my BS in Med
 
 In my spare time, I love to travel and geek out over Disney and K-pop. I also enjoy baking and running. Some of my current obsessions include [TikTok](http://vt.tiktok.com/ZSehLkJVY), _Dune_, and [Seong-Jin Cho](https://youtu.be/aNMlq-hOIoc). I was born in Seoul, raised in New Jersey, with a few dashes of New York and Orlando mixed in.
 
-You can download my CV [here].
+You can download my CV [here](https://github.com/jennjiwon/jennjiwon.github.io/raw/master/assets/pdf/CV_jiwonjennoh%20(2).pdf).
