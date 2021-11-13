@@ -13,9 +13,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+<text align=justify>
+  
 Hi there!
 
-I am a cultural studies scholar and aspiring PhD student in Communication and Media Studies. My research interests lie at the intersection of digital culture and identity, with an emphasis on globalization and social activism of historically marginalized groups. 
+I am a cultural studies scholar and aspiring PhD student in Communication and Media Studies. My research interests lie at the intersection of digital culture and identity, with an emphasis on globalization, participatory culture, and social activism. In particular, I am interested in the identity-building processes of historically marginalized groups, and ( ) within emerging media landscapes. 
 
 My Master's thesis explored boundary-policing within the K-pop fandom through the use of cringe videos.
 
