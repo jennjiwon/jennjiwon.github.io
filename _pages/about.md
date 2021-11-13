@@ -23,6 +23,4 @@ Currently, I am working as an Administrative Assistant at the [Department of Com
 
 I received a Master of Arts in Communication from Seoul National University, and a Bachelor of Science in Media, Culture, and Communication (magna cum laude) from New York University.
 
-Outside of academia, I love to travel, bake (my go-to stress-reliever!), and geek out over Disney and K-pop. Currently obsessed with [TikTok](http://vt.tiktok.com/ZSehLkJVY), Dune, and [Seong-Jin Cho](https://youtu.be/aNMlq-hOIoc).
-
-Feel free to reach me with any questions at ohjiwon@snu.ac.kr. 
+Outside of academia, I love to travel, bake (my go-to stress-reliever!), and geek out over Disney and K-pop. Currently obsessed with [TikTok](http://vt.tiktok.com/ZSehLkJVY), _Dune_, and [Seong-Jin Cho](https://youtu.be/aNMlq-hOIoc).
