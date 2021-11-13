@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: 
+description: Comm @ SNU
 profile:
   align: right
   image: prof_pic.jpg
