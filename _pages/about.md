@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
   
 Hi there! 👋
 
-I am a cultural studies scholar and aspiring PhD student in Communication and Media Studies. My research interests lie at the intersection of [digital culture and identity], with an emphasis on globalization, participatory culture, and social activism. In particular, I am interested in the identity-building processes of historically marginalized groups within emerging media landscapes such as social media and the metaverse.
+I am a cultural studies scholar and aspiring PhD student in Communication and Media Studies. My research interests lie at the intersection of `digital culture and identity`, with an emphasis on globalization, participatory culture, and social activism. In particular, I am interested in the identity-building processes of historically marginalized groups within emerging media landscapes such as social media and the metaverse.
 
 Currently, I am working as an Administrative Assistant at the [Department of Communication](http://communication.snu.ac.kr) at Seoul National University. 
 
