@@ -8,10 +8,8 @@ nav: true
 
 ### in progress
 
-**Oh, Ji Won** & Hong, Seok-Kyeong. Confessions of a Koreaboo: Boundary-Policing and Race in K-pop Fandoms.
-
 
 
 ### submitted
 
-**Oh, Ji Won** & Hong, Seok-Kyeong. Confessions of a Koreaboo: Boundary-Policing and Race in K-pop Fandoms.
+**Oh, Ji Won** & Hong, Seok-Kyeong. Confessions of a Koreaboo:  Cultural Hybridity and Boundary-Policing in Transnational K-pop Fandoms
