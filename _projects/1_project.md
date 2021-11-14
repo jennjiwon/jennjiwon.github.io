@@ -7,12 +7,12 @@ importance: 1
 category: research
 ---
 
-    ---
+```
     PI: Prof. Seok-Kyeong Hong (SNU) 
     Supported by: Netflix Korea
-    ---
+```
 
-What is the effect of Netflix on the global reception of Korean culture?
+Global SVOD services like Netflix are transforming the way we consume entertainment, with content from all over the world easily available with one simple click. Netflix is aggressively investing in the production of original content from several cultural powerhouses, with Korea being a forerunner. How is the emergence of this new global mediator changing the way _hallyu_ is distributed? What is the effect of Netflix on the global reception of Korean culture?
 
 We conducted in-depth interviews with Netflix users (with varying degrees of familiarity with Korean content) from all over the world to find out.
 
@@ -31,11 +31,4 @@ We conducted in-depth interviews with Netflix users (with varying degrees of fam
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Check out some of our findings in [this video](https://youtu.be/-rLKsdxIoSM)!
