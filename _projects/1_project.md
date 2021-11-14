@@ -8,13 +8,13 @@ category: research
 ---
 
 ```
-    PI: Prof. Seok-Kyeong Hong (SNU) 
-    Supported by: Netflix Korea
+PI: Prof. Seok-Kyeong Hong (SNU) 
+Supported by: Netflix Korea
 ```
 
 Global SVOD services like Netflix are transforming the way we consume entertainment, with content from all over the world easily available with one simple click. Netflix is aggressively investing in the production of original content from several cultural powerhouses, with Korea being a forerunner. How is the emergence of this new global mediator changing the way _hallyu_ is distributed? What is the effect of Netflix on the global reception of Korean culture?
 
-We conducted in-depth interviews with Netflix users (with varying degrees of familiarity with Korean content) from all over the world to find out.
+**We conducted in-depth interviews with Netflix users (with varying degrees of familiarity with Korean content) from all over the world to find out.**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -28,7 +28,7 @@ We conducted in-depth interviews with Netflix users (with varying degrees of fam
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+.
 </div>
 
 Check out some of our findings in [this video](https://youtu.be/-rLKsdxIoSM)!
