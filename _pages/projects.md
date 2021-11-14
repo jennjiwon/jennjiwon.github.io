@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: these are some projects i have worked on, or am currently working on. 
+description: This page outlines some of the projects I have worked on (or are currently working on) during my academic career. You can also check out some of the freelance projects I've completed outside of academia. 
 nav: true
 display_categories: [research, fun]
 horizontal: false
