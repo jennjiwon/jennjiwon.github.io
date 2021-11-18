@@ -23,6 +23,4 @@ I earned an M.A. in Communication from Seoul National University, and a B.S. in 
 
 In my spare time, I like to travel, go on runs, and geek out over Disney, K-pop, and musical theatre. I was born and raised in Seoul, but also call New Jersey, New York, and Orlando second homes.
 
-You can check out my CV <a href="https://github.com/jennjiwon/jennjiwon.github.io/raw/master/assets/pdf/CV_jiwonjennoh%20(2).pdf" target="_blank">here</a>.
-
-[here](https://github.com/jennjiwon/jennjiwon.github.io/raw/master/assets/pdf/CV_jiwonjennoh%20(2).pdf).
+You can download my CV [here](https://github.com/jennjiwon/jennjiwon.github.io/raw/master/assets/pdf/CV_jiwonjennoh%20(2).pdf).
