@@ -1,7 +1,7 @@
 ---
 layout: page
 title: cv
-nav: true
+nav: false
 dropdown: false
 ---
 
