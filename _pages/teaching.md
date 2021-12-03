@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /cv/
-title: cv
-description:
+title: curriculum vitae
+description: Last updated: November 2021
 nav: true
 ---
 
