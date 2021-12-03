@@ -1,16 +1,12 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /cv/
+title: cv
 description:
 nav: true
 ---
 
-### in progress
+### curriculum vitae
 
+<iframe src="https://drive.google.com/file/d/1Z-jdCGK5W1PRZQ3cXioovGEevtu35Rk2/preview" width="640" height="480" allow="autoplay"></iframe>
 
-**Oh, Ji Won** & Hong, Seok-Kyeong. Confessions of a Koreaboo:  Cultural Hybridity and Boundary-Policing in Transnational K-pop Fandoms.
-
-(_Submitted_) Ahn, H., Shin, J., Seo, K., **Oh, J. W.** & Hong, S. How Netflix Changes Cultural Diversity: An Analysis of Global Top 10 Rankings on Netflix. 
-
-(_Submitted_) Ahn, H., Hong, S., Shin, J. & **Oh, J. W.**, A Comparative Analysis of Netflix's Daily Top 10 Results.
