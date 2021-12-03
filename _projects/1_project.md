@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Effect of Netflix Content on Promoting Korean Culture and Hallyu
-description: Research Associate (June 2020 - Sep 2020)
+title: Netflix & Hallyu
+description: What is the effect of Netflix on the global reception of Hallyu?
 img: assets/img/12.jpg
 importance: 1
 category: research
