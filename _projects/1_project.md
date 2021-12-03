@@ -2,7 +2,7 @@
 layout: page
 title: Netflix & Hallyu
 description: What is the effect of Netflix on the global reception of Hallyu?
-img: assets/img/12.jpg
+img: assets/img/1.jpg
 importance: 1
 category: research
 ---
