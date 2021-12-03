@@ -3,7 +3,7 @@ layout: page
 title: BTS & Transmedia Storytelling
 description: under construction
 img:
-importance: 3
+importance: 4
 category: research
 ---
 
