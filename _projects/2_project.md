@@ -2,7 +2,7 @@
 layout: page
 title: transnational convergence
 description: Assisted with edited volume project
-img: assets/img/4.jpg
+img: assets/img/2.jpg
 importance: 2
 category: research
 ---
