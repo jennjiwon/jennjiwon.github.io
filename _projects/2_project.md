@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Transnational Convergence of East Asian Pop Culture
-description: Research Assistant (2018-2020)
+title: transnational convergence
+description: Assisted with edited volume project
 img: assets/img/4.jpg
 importance: 2
 category: research
