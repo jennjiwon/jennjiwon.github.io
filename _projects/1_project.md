@@ -11,24 +11,20 @@ category: research
 PI: Prof. Seok-Kyeong Hong (SNU) 
 Supported by: Netflix Korea
 ```
-
-Global SVOD services like Netflix are transforming the way we consume entertainment, with content from all over the world easily available with one simple click. Netflix is aggressively investing in the production of original content from several cultural powerhouses, with Korea being a forerunner. How is the emergence of this new global mediator changing the way _hallyu_ is distributed? What is the effect of Netflix on the global reception of Korean culture?
-
-**We conducted in-depth interviews with Netflix users (with varying degrees of familiarity with Korean content) from all over the world to find out.**
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/1.jpg title: "example image" class: "img-fluid rounded z-depth-1" %}
+        {% responsive_image path: assets/img/2.jpg title: "example image" class: "img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/2.jpg title: "example image" class: "img-fluid rounded z-depth-1" %}
+        {% responsive_image path: assets/img/1.jpg title: "example image" class: "img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% responsive_image path: assets/img/3.jpg title: "example image" class: "img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-.
-</div>
 
-Check out some of our findings in [this video](https://youtu.be/-rLKsdxIoSM)!
+Global SVOD services are transforming the way we consume entertainment, with content from all over the world easily available with one simple click. Netflix is aggressively investing in the production of original content from several cultural powerhouses, with Korea being a forerunner. How is the emergence of this new global mediator changing the way _hallyu_ is distributed? What is the effect of Netflix on the global reception of Korean culture?
+
+**We conducted in-depth interviews with 32 Netflix users (with varying degrees of familiarity with Korean content) from four different countries to find out.**
+
+You can check out some of our findings in [this video](https://youtu.be/-rLKsdxIoSM).
