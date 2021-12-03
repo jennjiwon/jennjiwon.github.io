@@ -24,3 +24,5 @@ I earned an M.A. in Communication from Seoul National University, and a B.S. in 
 In my spare time, I like to travel, go on runs, and geek out over Disney, K-pop, and musical theatre. I was born and raised in Seoul, but also call New Jersey, New York, and Orlando second homes.
 
 You can download my **CV [here](https://drive.google.com/file/d/1Z-jdCGK5W1PRZQ3cXioovGEevtu35Rk2/view)**.
+
+<iframe src="https://drive.google.com/file/d/1Z-jdCGK5W1PRZQ3cXioovGEevtu35Rk2/preview" width="640" height="480" allow="autoplay"></iframe>
