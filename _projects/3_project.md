@@ -2,7 +2,7 @@
 layout: page
 title: Netflix & Cultural Diversity
 description: Analyzing content diversity on Netflix through global top 10 lists
-img: assets/img/7.jpg
+img: assets/img/3.jpg
 importance: 3
 category: research
 ---
