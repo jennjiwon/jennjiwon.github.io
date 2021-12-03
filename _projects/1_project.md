@@ -27,4 +27,4 @@ Global SVOD services are transforming the way we consume entertainment, with con
 
 **We conducted in-depth interviews with 32 Netflix users (with varying degrees of familiarity with Korean content) from four different countries to find out.**
 
-You can check out some of our findings in [this video](https://youtu.be/-rLKsdxIoSM).
+You can check out some of our findings in [this video](https://youtu.be/-rLKsdxIoSM) (in Korean with English subtitles).
