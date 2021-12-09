@@ -12,6 +12,4 @@ PI: Prof. Seok-Kyeong Hong (SNU)
 Funded by: Seoul National University Asia Center (SNUAC)
 ```
 
-Under construction
-
-I assisted with [edited volume](https://snuac.snu.ac.kr/eng/index.php/2021/03/25/transnational-convergence-of-east-asian-pop-culture/), published by Routledge in March 2021.
+I assisted with the research, translation and editing/proofreading of an [edited volume](https://snuac.snu.ac.kr/eng/index.php/2021/03/25/transnational-convergence-of-east-asian-pop-culture/) project, published by Routledge in March 2021. I also managed the budget, administrative duties, and communication between contributors. 
