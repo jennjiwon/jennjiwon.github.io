@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: 🎓 <a href="http://communication.snu.ac.kr/en">comm @ snu</a>
+description: 🎓 <a href="https://media.illinois.edu/icr">media @ u of i</a>
 profile:
   align: right
   image: prof_pic.jpg
@@ -15,9 +15,9 @@ social: false  # includes social icons at the bottom of the page
   
 Hi there! 👋
 
-I am an aspiring scholar in communication and media studies, with research interests located at the intersection of `digital culture and identity` in relation to globalization, youth culture, and social activism.
+I am an incoming PhD student at the [Institute of Communications Research](https://media.illinois.edu/icr) at the University of Illinois, with research interests located at the intersection of `digital culture and identity` in relation to globalization, youth culture, and technology.
 
-I currently work at the [Dept. of Communication](http://communication.snu.ac.kr/en) at SNU. Previously, I was the Editorial Assistant at [Journal of Communication Research](https://www.dbpia.co.kr/journal/publicationDetail?publicationId=PLCT00001667). 
+Previously, I have studied Korean popular culture and fandoms, and have conducted research with industry giants such as Netflix and HYBE.
 
 I have an M.A. in Communication from Seoul National University, and a B.S. in Media, Culture, and Communication, _magna cum laude_, from NYU.
 
